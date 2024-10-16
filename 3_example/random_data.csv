@@ -3,7 +3,7 @@ ID,Name,Email,Age
 2,Patricia Brown,patricia.brown@example.com,20
 3,John Doe,john.doe@coolmail.com,60
 4,John Doe,john.doe@coolmail.com,54
-5,Jane Smith,jane.smith@mymail.com,"""3"""
+5,Jane Smith,jane.smith@mymail.com,3
 6,Jane Smith,jane.smith@example.com,35
 7,Emily Wilson,emily.wilson@example.com,30
 8,Emily Wilson,emily.wilson@testmail.com,28

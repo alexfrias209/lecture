@@ -71,10 +71,6 @@ for state, acronym in states_acronyms.items():
             ipdb.set_trace()
         user_answer = input(f"What is the acronym for {state}? ")
 
-
-       
-
-
         if user_answer == acronym:
             print("Correct!")
             correct_answers += 1

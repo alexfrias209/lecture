@@ -6,12 +6,11 @@ csv_file_path = "random_data.csv"
 with open(csv_file_path, mode="r") as file:
     reader = csv.reader(file)
     header = next(reader)
-
+    
     for row in reader:
-        # ipdb.set_trace()
+        ipdb.set_trace()
         age = 2
         try:
-            age = int(age)
             if age > 3:
                 print("Age is greater than 3.")
             else:

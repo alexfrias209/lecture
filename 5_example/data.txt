@@ -1,0 +1,50 @@
+# Data for parsing practice
+
+
+Name: Alex Frias
+Phone: 209-505-0292
+Address: 1234 Maple St, Modesto, CA 95355
+
+
+# Example of an email
+Email: alex.frias@example.com
+afrias5@gmail.com
+
+
+# More information
+Date of Birth: 1996-04-28
+
+
+# Temperature readings
+Temperature on 2024-10-14: 72°F
+Temperature on 2024-10-15: 68°F
+
+
+# URL examples
+Website: https://www.example.com
+Website: http://test.org
+
+
+# Product IDs
+Product ID: 123-456-789
+Product ID: ABC-987-XZY
+
+
+# Random numbers
+Random: 582939
+Random: 827362
+
+
+# Times for an event
+22 Event Time: 08:30 AM
+Event Time: 02:45 PM
+
+
+# Random floats
+Float: 73.21
+Float: 18.92
+
+
+
+
+
