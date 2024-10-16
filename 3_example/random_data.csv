@@ -1,0 +1,21 @@
+ID,Name,Email,Age
+1,Michael Davis,michael.davis@example.com,29
+2,Patricia Brown,patricia.brown@example.com,20
+3,John Doe,john.doe@coolmail.com,60
+4,John Doe,john.doe@coolmail.com,54
+5,Jane Smith,jane.smith@mymail.com,"""3"""
+6,Jane Smith,jane.smith@example.com,35
+7,Emily Wilson,emily.wilson@example.com,30
+8,Emily Wilson,emily.wilson@testmail.com,28
+9,Chris Johnson,chris.johnson@coolmail.com,53
+10,John Doe,john.doe@coolmail.com,53
+11,John Doe,john.doe@coolmail.com,24
+12,Chris Johnson,chris.johnson@testmail.com,19
+13,Michael Davis,michael.davis@mymail.com,27
+14,Chris Johnson,chris.johnson@testmail.com,57
+15,John Doe,john.doe@coolmail.com,54
+16,Patricia Brown,patricia.brown@example.com,53
+17,Michael Davis,michael.davis@testmail.com,41
+18,Emily Wilson,emily.wilson@coolmail.com,31
+19,Chris Johnson,chris.johnson@testmail.com,31
+20,John Doe,john.doe@mymail.com,19
